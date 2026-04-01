@@ -78,3 +78,8 @@ Check out my [GitHub profile](https://github.com/b-signer) for more.
 - [x] Build a full-stack project
 - [x] Land a software engineering internship
 - [ ] Contribute to an open source project
+
+
+### Generative AI Disclaimer
+
+This page was made/formatted with the assistance of generative AI (i.e. Claude Code)
