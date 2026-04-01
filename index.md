@@ -49,8 +49,6 @@ A public message board where users can post reviews of their favorite restaurant
 
 Check out my [GitHub profile](https://github.com/b-signer) for more.
 
-View my [headshot image](headshot.jpeg) or the [README](README.md).
-
 ---
 
 ## Coursework
@@ -61,13 +59,16 @@ View my [headshot image](headshot.jpeg) or the [README](README.md).
 2. Honors Linear Algebra
 3. Multivariable Calculus & Vector Calculus
 4. Computer Organization
+5. Systems Programming & Software Tools
+6. Data Structures & Object Oriented Design
+7. Statistics and Probability
+8. Machine Learning Algorithms
 
 **In Progress / Planned:**
+- Software Engineering
+- Theory of Computation
+- Operating Systems
 
-- Systems Programming & Software Tools
-- Data Structures & Object Oriented Design
-- Statistics and Probability
-- Machine Learning Algorithms
 
 ---
 
@@ -75,5 +76,5 @@ View my [headshot image](headshot.jpeg) or the [README](README.md).
 
 - [x] Declare CS major
 - [x] Build a full-stack project
-- [ ] Land a software engineering internship
+- [x] Land a software engineering internship
 - [ ] Contribute to an open source project
